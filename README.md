@@ -1,6 +1,6 @@
 # Wallpaper Downloader
 
-![Project Logo](project_logo.png) <!-- Include a logo or project-related image if available -->
+<img src="wallpaper.png" alt="Project Logo" width="200"/>
 
 A versatile wallpaper downloader for fetching and managing wallpapers from various sources.
 
